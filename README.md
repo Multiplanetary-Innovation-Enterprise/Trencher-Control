@@ -13,5 +13,12 @@ If it is not installed, use this link: https://www.python.org/downloads/
 
 '''
 
+### Raspberry Pi Login Credentials 
+## Name:
+trencher@raspberrypi.local
+## Password:
+trencher
+
+
 ### Open an additional command prompt windows
 
